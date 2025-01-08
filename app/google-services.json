@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "521231038219",
+    "firebase_url": "https://boook-store-default-rtdb.firebaseio.com",
+    "project_id": "boook-store",
+    "storage_bucket": "boook-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521231038219:android:16538f6168e2e8f81a140e",
+        "android_client_info": {
+          "package_name": "com.example.boookstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKwUut-T0jIZVhlHyUMwpsMADYd-hr9yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521231038219:android:cda7db03e01216961a140e",
+        "android_client_info": {
+          "package_name": "com.example.e_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKwUut-T0jIZVhlHyUMwpsMADYd-hr9yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
