@@ -4,16 +4,21 @@ A book reading app built using modern Android development tools and architecture
 
 #Features:
 
- Firebase Integration: User authentication and data storage.
-Room Database: Store book metadata and user preferences locally.
-Hilt Dependency Injection: Simplified DI for better app architecture.
-MVVM Architecture: Clean separation of concerns for scalable and maintainable code.
-Jetpack Compose: Declarative UI framework for building responsive UIs.
-Material 3: Modern, material design components for a consistent UI/UX.
+ Firebase Integration: real time database.
+Room Database:
+Store book metadata and user preferences locally.
+Hilt Dependency Injection:
+Simplified DI for better app architecture.
+MVVM Architecture:
+Clean separation of concerns for scalable and maintainable code.
+Jetpack Compose:
+Declarative UI framework for building responsive UIs.
+Material 3:
+Modern, material design components for a consistent UI/UX.
 
 #Technologies Used:
 
-Firebase: For user authentication and cloud storage.
+Firebase:  cloud storage.
 Hilt: Dependency injection to manage app components.
 Room: Local database for storing user data and books.
 MVVM: Architecture for a clean and scalable code structure.
